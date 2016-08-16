@@ -1,0 +1,10 @@
+E:\Programming\#mentoring2016\UserInputApplication\UserInputApplication\bin\Debug\UserInputApplication.exe.config
+E:\Programming\#mentoring2016\UserInputApplication\UserInputApplication\bin\Debug\UserInputApplication.exe
+E:\Programming\#mentoring2016\UserInputApplication\UserInputApplication\bin\Debug\UserInputApplication.pdb
+E:\Programming\#mentoring2016\UserInputApplication\UserInputApplication\obj\Debug\UserInputApplication.csprojResolveAssemblyReference.cache
+E:\Programming\#mentoring2016\UserInputApplication\UserInputApplication\obj\Debug\UserInputApplication.rewritten
+E:\Programming\#mentoring2016\UserInputApplication\UserInputApplication\obj\Debug\UserInputApplication.exe
+E:\Programming\#mentoring2016\UserInputApplication\UserInputApplication\obj\Debug\UserInputApplication.pdb
+E:\Programming\#mentoring2016\UserInputApplication\UserInputApplication\obj\Debug\Decl\UserInputApplication.exe
+E:\Programming\#mentoring2016\UserInputApplication\UserInputApplication\obj\Debug\Decl\UserInputApplication.pdb
+E:\Programming\#mentoring2016\UserInputApplication\UserInputApplication\obj\Debug\CodeContractAnalysisRun.log
